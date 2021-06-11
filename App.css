@@ -1,0 +1,37 @@
+
+.bg{
+    background-image:url('../images/xyz.jpeg')no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    width: 40%;
+    height: 50px;
+}
+
+*{
+    padding: 0;
+    margin-bottom: 20px;
+    box-sizing: border-box;
+}
+.head{
+    background-image: url(../images/xyz.jpeg)no-repeat;
+    background-color: darkgray;
+    background-size: 100% 100%;
+    width: 100%;
+}
+
+
+#logo{
+
+  
+    height: 60%;
+     margin-top: -3px;
+    margin-right: 5px;
+}
+
+
+
+
+
+
+
+
